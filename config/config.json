@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "hartanto",
+    "password": "14220692",
+    "database": "binar_game",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "hartanto",
+    "password": "14220692",
+    "database": "binar_game",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "hartanto",
+    "password": "14220692",
+    "database": "binar_game",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
